@@ -1,0 +1,120 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.footy {
+    background-color: #010221;
+    height: 300px;
+}
+
+.containerfoo {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.container-logo {
+    padding: 5px;
+    margin-top: -10px;
+}
+
+.container-logo-img {
+    width: 200px;
+    margin-left: 20px;
+    height: 190px;
+    padding: 10px;
+
+
+}
+
+.container-acerca h2 {
+    color: #fff;
+    font-size: 20px;
+    font-family: "roboto-regular";
+    text-align: center;
+    margin-top: 10px;
+}
+
+.container-acerca p {
+    color: #fff;
+    font-family: "josefinsans";
+    font-size: 1 rem;
+    text-align: center;
+    padding: 10px;
+    margin: 15px;
+
+}
+
+.container-redes h2 {
+    color: #fff;
+    font-size: 20px;
+    font-family: "roboto-regular";
+    text-align: center;
+    margin-right: 30px;
+    margin-bottom: 8px;
+
+}
+
+
+.link-foot {
+    color: #fff;
+    display: flex;
+    font-size: 13px;
+    margin-right: 50px;
+    line-height: 30px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    
+}
+
+
+.link-foot:hover{
+    cursor: pointer;
+    color:#EDAA25;
+    transition: 1s;
+
+}
+
+.re-foot {
+
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.final-container {
+    color: #fff;
+    text-align: center;
+    font-size: 1 rem;
+    padding: 10px;
+    font-family: "josefinsans";
+    background-color: #EDAA25;
+}
+
+#linea-footer {
+    width: 1347px;
+    color: #fff;
+    border-style: solid;
+    border-width: 1px;
+    margin: 0;
+    
+
+}
+
+.footer-direccion {
+    font-size: 12px;
+    color: #fff;
+    font-family: "josefinsans";
+    text-align: center;
+    padding-left: 10px;
+}
+
+.columcombo1{
+    margin: 20px;
+    margin-left: -35px;
+}
